@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Krishnan P</h1>
 <h3 align="center">Passionate MERN Stack Developer | Embracing New Technologies to Drive Innovation</h3>
-<img align="right" alt="Coding" width="350" left="40" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
--👨‍💻 Working Experience **Ellucian Technical Intern Bangalore for 3 months (on-site)
 
-🌱 I’m currently learning **Angular js,Java,Spring Boot**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore for 3 months (on-site)**
 
- 📝Project Completion at during Intern at Ellucian **Cybersource Payment Gateway**
+- 🌱 I’m currently learning **Angular js,Java,Spring Boot**
 
- All of my projects are available at [https://github.com/Krishnanpras](https://github.com/Krishnanpras)
+- 📝Project Completion at during Intern at Ellucian **Cybersource Payment Gateway**
 
-💬 Ask me about **Mern Stack-MongoDB,Express,React js,Node js**
+- ⚡ All of my projects are available at [https://github.com/Krishnanpras](https://github.com/Krishnanpras)
 
- 📫 How to reach me **krishnanp132@gmail.com**
+- 💬 Ask me about **Mern Stack-MongoDB,Express,React js,Node js**
+
+- 📫 How to reach me **krishnanp132@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
