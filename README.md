@@ -1,7 +1,7 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hey!👋, I'm Krishnan P</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1DBF73&width=500&height=40&lines=Expert+with+Web+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+OpenAI;Expert+with+React+and+Next+js+CMS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=1589FF&width=500&height=43&lines=Expert+with+Mern+Stack+Developer;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+React+and+Next+js+MongoDb)](https://git.io/typing-svg)
 <h3 align="center">Passionate MERN Stack Developer | Embracing New Technologies to Drive Innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
