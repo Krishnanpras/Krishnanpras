@@ -5,7 +5,7 @@
 <h3 align="center">Passionate MERN Stack Developer | Embracing New Technologies to Drive Innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore**
+- 👨‍💻 Working Experience **Technical Intern at Ellucian Bangalore**
 
 - 🌱 I’m currently learning **Angular js,Java,Spring Boot**
 
