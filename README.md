@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnan P</h1>
 <h3 align="center">Passionate MERN Stack Developer | Embracing New Technologies to Drive Innovation</h3>
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="350" right="0" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore for 3 months (on-site)**
 
 - 🌱 I’m currently learning **Angular js,Java,Spring Boot**
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishnanpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishnanpp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/krishnanpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/krishnanpp" height="30" width="40" /></a>
 <a href="https://instagram.com/_krish._7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_krish._7" height="30" width="40" /></a>
 </p>
 
