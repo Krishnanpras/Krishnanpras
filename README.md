@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto=900&size=30&duration=3000&pause=1000&color=157DEC&width=600&height=45&lines=Expert+with+MERN+STACK+Developement;Expert+with+Front-end+Development;Expert+with+Back-end+Development;Expert+with+React+and+Node+js+MongoDB)](https://git.io/typing-svg)
 <h3 align="center">Passionate MERN Stack Developer | Embracing New Technologies to Drive Innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore**
 
 - 🌱 I’m currently learning **Angular js,Java,Spring Boot**
