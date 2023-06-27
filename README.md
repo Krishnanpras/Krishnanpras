@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Krishnan P</h1>
 <h3 align="center">Passionate MERN Stack Developer | Embracing New Technologies to Drive Innovation</h3>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore for 3 months (on-site)**
+
+- 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore**
 
 - 🌱 I’m currently learning **Angular js,Java,Spring Boot**
 
-- 📝Project Completion at during Intern at Ellucian **Cybersource Payment Gateway**
+- 📝Project Completion during Intern **Cybersource Payment Gateway**
 
 - ⚡ All of my projects are available at [https://github.com/Krishnanpras](https://github.com/Krishnanpras)
 
