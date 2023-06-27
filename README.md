@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishnan P</h1>
 <h3 align="center">Passionate MERN Stack Developer | Embracing New Technologies to Drive Innovation</h3>
 <img align="right" alt="Coding" width="350" left="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore for 3 months (on-site)**
+- 👨‍💻 Working Experience **Ellucian Technical Intern Bangalore for 3 months (on-site)
 
 - 🌱 I’m currently learning **Angular js,Java,Spring Boot**
 
